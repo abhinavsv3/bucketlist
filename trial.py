@@ -3,6 +3,7 @@
 class MyClass:
   """ Simple Class """
   i = 5
+  g = fun
   def __init__(self):
     print "Constructor Called"
   def f(self):
